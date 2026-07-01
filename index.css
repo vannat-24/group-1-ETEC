@@ -1,0 +1,30 @@
+/* style navbar */
+.nav-bag{
+    background-image: url("https://i.pinimg.com/1200x/1d/aa/79/1daa79782062e876f252324b55f3f8ad.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.nav-main{
+    background-color: rgba(240, 248, 255, 0.623);
+    backdrop-filter:blur(5px) ;
+}
+
+
+.text-section{
+    font-size: 100px;
+    text-align: center;
+    padding: 150px 20% ;
+    color: rgb(255, 255, 255);
+    height: 75%;
+}
+.bg-light{
+    background-color: aliceblue;
+    
+}
+.float-section{
+    position: relative;
+    bottom: -10%;
+}
+
