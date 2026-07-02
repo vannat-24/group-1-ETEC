@@ -1,3 +1,38 @@
-body{
-    background-color: aliceblue;
+
+/* style navbar */
+.nav-bag{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.nav-main{
+    background-color: rgba(97, 154, 204, 0.623);
+    backdrop-filter:blur(5px) ;
+}
+
+
+.text-section{
+    font-size: 100px;
+    text-align: center;
+    padding: 150px 20% ;
+    color: rgb(91, 147, 226);
+    height: 75%;
+}
+.bg-light{
+    background-color: rgb(48, 101, 147);
+    
+}
+.float-section{
+    position: relative;
+    bottom: -10%;
+}
+
+.body-card {
+    width: 90%;
+    height: auto;
+    background-color:white;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }
